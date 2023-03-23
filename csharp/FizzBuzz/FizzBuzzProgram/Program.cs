@@ -1,3 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-new FizzBuzz.FizzBuzz().Print();
+using FizzBuzz;
+
+new PrintFizzBuzz(new FizzBuzz.FizzBuzz()).Print();
