@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using FizzBuzz;
+using FizzBuzzProgram;
 
-new PrintFizzBuzz(new FizzBuzz.FizzBuzz()).Print();
+new PrintFizzBuzz(new FizzBuzz.FizzBuzz(), new ConsoleAdapter()).PrintFirstHundred();
