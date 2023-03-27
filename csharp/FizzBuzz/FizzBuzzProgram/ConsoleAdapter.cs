@@ -2,8 +2,8 @@
 
 public class ConsoleAdapter : IConsole
 {
-    public void WriteLine(string convert)
-    {
-        Console.WriteLine(convert);
-    }
+  public void WriteLine(string convert)
+  {
+    Console.WriteLine(convert);
+  }
 }

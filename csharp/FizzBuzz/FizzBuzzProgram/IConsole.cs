@@ -2,5 +2,5 @@
 
 public interface IConsole
 {
-    void WriteLine(string convert);
+  void WriteLine(string convert);
 }
