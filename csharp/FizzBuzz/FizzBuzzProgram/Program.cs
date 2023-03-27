@@ -2,4 +2,4 @@
 
 using FizzBuzzProgram;
 
-new PrintFizzBuzz(new FizzBuzz.FizzBuzz(), new ConsoleAdapter()).PrintFirstHundred();
+new PrintFizzBuzzWhizzBang(new FizzBuzz.FizzBuzzWhizzBang(), new ConsoleAdapter()).Print();
